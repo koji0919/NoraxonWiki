@@ -1,0 +1,43 @@
+baseURL = "https://example.com/"
+languageCode = "ja-jp"
+title = "NoraxonWiki"
+theme = "mainroad"
+publishDir = "docs"
+
+[Params]
+  description = "HUGOを用いたノラクソン技術ドキュメント過去ログ"
+  author = "koji0919"
+  mainSections = ["sample"]
+
+[Params.logo]
+  title = "NORAXON Wiki"
+  subtitle = "ドキュメントまとめ"
+
+[Author] # Used in authorbox
+  name = "SMD"
+  bio = "ノラクソン関連の資料を掲載します"
+
+[params.sidebar]
+  home = "right"
+  list = "right"
+  single = "right"
+
+[params.sidebar.widgets]
+  recent_articles = true
+  categories = true
+  tags = true
+
+[[Menus.main]]
+  Name = "トップ"
+  URL = "/"
+  weight = 1
+
+[[Menus.main]]
+  Name = "カテゴリー"
+  URL = "/categories/"
+  weight = 2
+
+[[Menus.main]]
+  Name = "タグ"
+  URL = "/tags/"
+  weight = 3

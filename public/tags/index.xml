@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on NoraxonWiki</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on NoraxonWiki</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sun, 27 Jul 2025 15:40:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Analyze</title>
+      <link>http://localhost:1313/tags/analyze/</link>
+      <pubDate>Sun, 27 Jul 2025 15:40:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/analyze/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Basic</title>
+      <link>http://localhost:1313/tags/basic/</link>
+      <pubDate>Sun, 27 Jul 2025 15:40:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/basic/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Report</title>
+      <link>http://localhost:1313/tags/report/</link>
+      <pubDate>Sun, 27 Jul 2025 15:40:00 +0900</pubDate>
+      <guid>http://localhost:1313/tags/report/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

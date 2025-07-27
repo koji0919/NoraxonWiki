@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Report on NoraxonWiki</title>
+    <link>http://localhost:1313/tags/report/</link>
+    <description>Recent content in Report on NoraxonWiki</description>
+    <generator>Hugo</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sun, 27 Jul 2025 15:40:00 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/report/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>サンプル記事</title>
+      <link>http://localhost:1313/sample1/</link>
+      <pubDate>Sun, 27 Jul 2025 15:40:00 +0900</pubDate>
+      <guid>http://localhost:1313/sample1/</guid>
+      <description>&lt;p&gt;これはテスト記事&#xA;画像も表示可能&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;imgs/sample.png&#34; alt=&#34;サンプル画像&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
