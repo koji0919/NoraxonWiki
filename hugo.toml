@@ -3,6 +3,8 @@ languageCode = "ja-jp"
 title = "NoraxonWiki"
 theme = "mainroad"
 publishDir = "docs"
+relativeURLs = true
+canonifyURLs = true
 
 [Params]
   description = "HUGOを用いたノラクソン技術ドキュメント過去ログ"

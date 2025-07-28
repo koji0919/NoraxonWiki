@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on NoraxonWiki</title>
-    <link>https://example.com/tags/</link>
+    <link>https://koji0919.github.io/NoraxonWiki/tags/</link>
     <description>Recent content in Tags on NoraxonWiki</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sun, 27 Jul 2025 15:40:00 +0900</lastBuildDate>
-    <atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://koji0919.github.io/NoraxonWiki/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Analyze</title>
-      <link>https://example.com/tags/analyze/</link>
+      <link>https://koji0919.github.io/NoraxonWiki/tags/analyze/</link>
       <pubDate>Sun, 27 Jul 2025 15:40:00 +0900</pubDate>
-      <guid>https://example.com/tags/analyze/</guid>
+      <guid>https://koji0919.github.io/NoraxonWiki/tags/analyze/</guid>
       <description></description>
     </item>
     <item>
       <title>Basic</title>
-      <link>https://example.com/tags/basic/</link>
+      <link>https://koji0919.github.io/NoraxonWiki/tags/basic/</link>
       <pubDate>Sun, 27 Jul 2025 15:40:00 +0900</pubDate>
-      <guid>https://example.com/tags/basic/</guid>
+      <guid>https://koji0919.github.io/NoraxonWiki/tags/basic/</guid>
       <description></description>
     </item>
     <item>
       <title>Report</title>
-      <link>https://example.com/tags/report/</link>
+      <link>https://koji0919.github.io/NoraxonWiki/tags/report/</link>
       <pubDate>Sun, 27 Jul 2025 15:40:00 +0900</pubDate>
-      <guid>https://example.com/tags/report/</guid>
+      <guid>https://koji0919.github.io/NoraxonWiki/tags/report/</guid>
       <description></description>
     </item>
   </channel>
