@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on NoraxonWiki</title>
-    <link>https://example.com/categories/</link>
+    <link>https://koji0919.github.io/NoraxonWiki/categories/</link>
     <description>Recent content in Categories on NoraxonWiki</description>
     <generator>Hugo</generator>
     <language>ja-jp</language>
     <lastBuildDate>Sun, 27 Jul 2025 15:40:00 +0900</lastBuildDate>
-    <atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://koji0919.github.io/NoraxonWiki/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>EMG</title>
-      <link>https://example.com/categories/emg/</link>
+      <link>https://koji0919.github.io/NoraxonWiki/categories/emg/</link>
       <pubDate>Sun, 27 Jul 2025 15:40:00 +0900</pubDate>
-      <guid>https://example.com/categories/emg/</guid>
+      <guid>https://koji0919.github.io/NoraxonWiki/categories/emg/</guid>
       <description></description>
     </item>
     <item>
       <title>Motion</title>
-      <link>https://example.com/categories/motion/</link>
+      <link>https://koji0919.github.io/NoraxonWiki/categories/motion/</link>
       <pubDate>Sun, 27 Jul 2025 15:40:00 +0900</pubDate>
-      <guid>https://example.com/categories/motion/</guid>
+      <guid>https://koji0919.github.io/NoraxonWiki/categories/motion/</guid>
       <description></description>
     </item>
   </channel>
